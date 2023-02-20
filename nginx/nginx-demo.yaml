@@ -62,7 +62,7 @@ data:
                 text-shadow: rgba(255, 255, 255, 0.4) 0 0 0.05em;
                 font: normal 500 6rem 'Varela Round', sans-serif;
                 color:#fff;
-                color:#1989fa;
+                color:#ADFF2F;
 
             }
 
